@@ -13,7 +13,7 @@ public class SimpleDate {
     }
 
 
-    public void fuck(){
+    public void out(){
         System.out.println(day + "." + month + "." + year);
     }
 
